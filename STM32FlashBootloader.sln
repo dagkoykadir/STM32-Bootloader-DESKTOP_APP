@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "STM32FlashBootloader", "STM32FlashBootloader\STM32FlashBootloader.csproj", "{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {148F2BB8-9877-4E88-BFE7-BA2742E96514}
+	EndGlobalSection
+EndGlobal

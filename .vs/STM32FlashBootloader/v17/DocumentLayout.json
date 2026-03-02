@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VisiualStudio\\FlasherSTM\\STM32FlashBootloader\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}|STM32FlashBootloader\\STM32FlashBootloader.csproj|d:\\visiualstudio\\flasherstm\\stm32flashbootloader\\stm32flashbootloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}|STM32FlashBootloader\\STM32FlashBootloader.csproj|solutionrelative:stm32flashbootloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}|STM32FlashBootloader\\STM32FlashBootloader.csproj|D:\\VisiualStudio\\FlasherSTM\\STM32FlashBootloader\\stm32flashbootloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D3EF3F8C-011D-40A0-B6FC-3196290FEEE8}|STM32FlashBootloader\\STM32FlashBootloader.csproj|solutionrelative:stm32flashbootloader\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\VisiualStudio\\FlasherSTM\\STM32FlashBootloader\\STM32FlashBootloader\\Form1.cs",
+              "RelativeDocumentMoniker": "STM32FlashBootloader\\Form1.cs",
+              "ToolTip": "D:\\VisiualStudio\\FlasherSTM\\STM32FlashBootloader\\STM32FlashBootloader\\Form1.cs",
+              "RelativeToolTip": "STM32FlashBootloader\\Form1.cs",
+              "ViewState": "AgIAAJoBAAAAAAAAAAAWwK0BAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T07:15:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "D:\\VisiualStudio\\FlasherSTM\\STM32FlashBootloader\\STM32FlashBootloader\\Form1.cs",
+              "RelativeDocumentMoniker": "STM32FlashBootloader\\Form1.cs",
+              "ToolTip": "D:\\VisiualStudio\\FlasherSTM\\STM32FlashBootloader\\STM32FlashBootloader\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "STM32FlashBootloader\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-03T07:29:36.881Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

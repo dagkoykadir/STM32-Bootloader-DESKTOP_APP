@@ -1,0 +1,14 @@
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\bin\Debug\STM32FlashBootloader.exe.config
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\bin\Debug\STM32FlashBootloader.exe
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\bin\Debug\STM32FlashBootloader.pdb
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.csproj.AssemblyReference.cache
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.Form1.resources
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.Properties.Resources.resources
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.csproj.GenerateResource.cache
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.csproj.CoreCompileInputs.cache
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.exe
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.pdb
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.exe.config
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\bin\Debug\tr-TR\STM32FlashBootloader.resources.dll
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\STM32FlashBootloader.Form1.tr-TR.resources
+D:\VisiualStudio\FlasherSTM\STM32FlashBootloader\STM32FlashBootloader\obj\Debug\tr-TR\STM32FlashBootloader.resources.dll
